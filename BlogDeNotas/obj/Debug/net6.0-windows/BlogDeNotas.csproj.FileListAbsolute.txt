@@ -1,0 +1,17 @@
+C:\Users\Fernando\source\repos\BlogDeNotas\BlogDeNotas\bin\Debug\net6.0-windows\BlogDeNotas.exe
+C:\Users\Fernando\source\repos\BlogDeNotas\BlogDeNotas\bin\Debug\net6.0-windows\BlogDeNotas.deps.json
+C:\Users\Fernando\source\repos\BlogDeNotas\BlogDeNotas\bin\Debug\net6.0-windows\BlogDeNotas.runtimeconfig.json
+C:\Users\Fernando\source\repos\BlogDeNotas\BlogDeNotas\bin\Debug\net6.0-windows\BlogDeNotas.dll
+C:\Users\Fernando\source\repos\BlogDeNotas\BlogDeNotas\bin\Debug\net6.0-windows\BlogDeNotas.pdb
+C:\Users\Fernando\source\repos\BlogDeNotas\BlogDeNotas\obj\Debug\net6.0-windows\BlogDeNotas.csproj.AssemblyReference.cache
+C:\Users\Fernando\source\repos\BlogDeNotas\BlogDeNotas\obj\Debug\net6.0-windows\BlogDeNotas.Form1.resources
+C:\Users\Fernando\source\repos\BlogDeNotas\BlogDeNotas\obj\Debug\net6.0-windows\BlogDeNotas.csproj.GenerateResource.cache
+C:\Users\Fernando\source\repos\BlogDeNotas\BlogDeNotas\obj\Debug\net6.0-windows\BlogDeNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\source\repos\BlogDeNotas\BlogDeNotas\obj\Debug\net6.0-windows\BlogDeNotas.AssemblyInfoInputs.cache
+C:\Users\Fernando\source\repos\BlogDeNotas\BlogDeNotas\obj\Debug\net6.0-windows\BlogDeNotas.AssemblyInfo.cs
+C:\Users\Fernando\source\repos\BlogDeNotas\BlogDeNotas\obj\Debug\net6.0-windows\BlogDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\BlogDeNotas\BlogDeNotas\obj\Debug\net6.0-windows\BlogDeNotas.dll
+C:\Users\Fernando\source\repos\BlogDeNotas\BlogDeNotas\obj\Debug\net6.0-windows\refint\BlogDeNotas.dll
+C:\Users\Fernando\source\repos\BlogDeNotas\BlogDeNotas\obj\Debug\net6.0-windows\BlogDeNotas.pdb
+C:\Users\Fernando\source\repos\BlogDeNotas\BlogDeNotas\obj\Debug\net6.0-windows\BlogDeNotas.genruntimeconfig.cache
+C:\Users\Fernando\source\repos\BlogDeNotas\BlogDeNotas\obj\Debug\net6.0-windows\ref\BlogDeNotas.dll
